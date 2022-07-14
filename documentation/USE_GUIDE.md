@@ -1,0 +1,7 @@
+[![USE_GUIDE_1](https://user-images.githubusercontent.com/67222970/178939032-1adb710f-438e-4aa0-9dfe-450c4f1d68bb.png)](https://github.com/allpgs/geekblemalang/files/9110098/USE_GUIDE.pdf)
+[![USE_GUIDE_2](https://user-images.githubusercontent.com/67222970/178939056-16a8b734-8c53-4c59-a766-476f68dd21e1.png)](https://github.com/allpgs/geekblemalang/files/9110098/USE_GUIDE.pdf)
+[![USE_GUIDE_3](https://user-images.githubusercontent.com/67222970/178939061-29cae4c7-3eb6-40e7-a4ef-eaeb060944a8.png)](https://github.com/allpgs/geekblemalang/files/9110098/USE_GUIDE.pdf)
+[![USE_GUIDE_4](https://user-images.githubusercontent.com/67222970/178939063-968c7108-65e2-446a-94f0-fb3629812476.png)](https://github.com/allpgs/geekblemalang/files/9110098/USE_GUIDE.pdf)
+[![USE_GUIDE_5](https://user-images.githubusercontent.com/67222970/178939064-895c3f92-548d-4d84-a688-58271c1d4bb0.png)](https://github.com/allpgs/geekblemalang/files/9110098/USE_GUIDE.pdf)
+[![USE_GUIDE_6](https://user-images.githubusercontent.com/67222970/178939070-1e96ec70-6dfe-4577-a717-66fafc71ede9.png)](https://github.com/allpgs/geekblemalang/files/9110098/USE_GUIDE.pdf)
+[![USE_GUIDE_7](https://user-images.githubusercontent.com/67222970/178939074-b74435e2-eb4d-4a30-8db1-5eef9a6f9d8f.png)](https://github.com/allpgs/geekblemalang/files/9110098/USE_GUIDE.pdf)
