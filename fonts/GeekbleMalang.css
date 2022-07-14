@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'GeekbleMalang';
+  src: url('https://cdn.jsdelivr.net/gh/allpgs/geekblemalang@main/fonts/GeekbleMalang.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/allpgs/geekblemalang@main/fonts/GeekbleMalang.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
