@@ -11,13 +11,13 @@
 ### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/allpgs/geekblemalang@main/fonts/geekblemalang.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/allpgs/geekblemalang/fonts/geekblemalang.css" />
 ```
 
 ### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/allpgs/geekblemalang@main/fonts/GeekbleMalang.css");
+@import url("https://cdn.jsdelivr.net/gh/allpgs/geekblemalang/fonts/GeekbleMalang.css");
 ```
 
 ### CSS 커스텀
@@ -25,7 +25,7 @@
 ```css
 @font-face {
   font-family: 'GeekbleMalang';
-  src: url('https://cdn.jsdelivr.net/gh/allpgs/geekblemalang@main/fonts/GeekbleMalang.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/allpgs/geekblemalang@main/fonts/GeekbleMalang.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/allpgs/geekblemalang/fonts/GeekbleMalang.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/allpgs/geekblemalang/fonts/GeekbleMalang.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
